@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sriramgogina
-- 👀 I’m interested in web development(front-end),java,python
+- 👀 I’m interested in Full Stack web development,java,python
 - 🌱 I’m currently learning pytorch
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me @sriramgogina@gmail.com
